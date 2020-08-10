@@ -2,6 +2,8 @@
 使用[GeneticSharp](https://github.com/giacomelli/GeneticSharp)制作的寻路例子。
 
 GeneticSharp 用起来非常简单，提供了非常丰富的接口，也可以自定义自己的变异和交叉方法。
+版本：unity2018.4.8f1
+场景：PathFind/p01
 
 **使用过程过程中遇到的两个问题：**
 
